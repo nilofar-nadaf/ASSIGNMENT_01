@@ -1,0 +1,42 @@
+.heading{
+    text-align: center;
+    font-weight: 200px;
+    color: red;
+}
+.logo{
+    height: 50px;
+    margin-left: 550px;
+}
+.heading-tags{
+    font-weight: 900;
+    color: darkred;
+}
+.text{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.img1{
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+label{
+    margin-right: 70px;
+    font-weight: 600;
+}
+form{
+    margin-left: 8px;
+}
+#labels{
+    margin-bottom: 170px;
+    margin-top: 0;
+}
+.buttons{
+    margin-left: 100px;
+}
+td{
+    padding: 6px 10px;
+    vertical-align: top;
+}
